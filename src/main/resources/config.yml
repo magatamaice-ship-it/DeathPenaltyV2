@@ -1,0 +1,4 @@
+# DeathPenalty2 configuration
+# Penalty duration is configured in the plugin code.
+penalties: {}
+pending: {}
